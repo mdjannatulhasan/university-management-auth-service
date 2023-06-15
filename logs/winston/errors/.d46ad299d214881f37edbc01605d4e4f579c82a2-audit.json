@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/errors/.d46ad299d214881f37edbc01605d4e4f579c82a2-audit.json",
+    "files": [
+        {
+            "date": 1686848918918,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/errors/umas-2023-06-15-23-error.log",
+            "hash": "1601651ac95ffe7a45a6e717fbc35612659cd3cb3fb30f9c40aca44bacf3fa4f"
+        }
+    ],
+    "hashType": "sha256"
+}

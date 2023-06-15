@@ -2,6 +2,7 @@ import { User } from './users.model'
 import { IUser } from './users.interface'
 import config from '../../../config'
 import { generatedUserId } from './users.utils'
+import ApiError from '../../../errors/ApiError'
 
 const createUser = async (user: IUser): Promise<IUser | null> => {
     const id = await generatedUserId()
@@ -14,7 +15,7 @@ const createUser = async (user: IUser): Promise<IUser | null> => {
 
     const createdUser = User.create(user)
     if (!createUser) {
-        throw new Error('Failed to create user')
+        throw new ApiError(400, 'Failed to create user')
     }
     return createdUser
 }
