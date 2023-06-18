@@ -1,0 +1,238 @@
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:47:16.427Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:47:16.434Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:49:21.066Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:49:21.077Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:51:35.809Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:51:35.817Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:04.399Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:04.410Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:20.492Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:20.498Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:43.398Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:43.406Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:58.832Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:53:58.838Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:54:05.769Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:54:05.773Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:54:09.108Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:54:09.119Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:54:54.203Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:54:54.209Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:21.782Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:21.791Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:38.339Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:38.345Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:46.701Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:46.708Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:57.240Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:55:57.248Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:56:58.014Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:56:58.020Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:58:04.121Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:58:04.125Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:58:07.301Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-17T14:58:07.310Z'
+}

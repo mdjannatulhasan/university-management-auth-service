@@ -1,23 +1,23 @@
-import { User } from './users.model'
-import { IUser } from './users.interface'
-import config from '../../../config'
-import { generatedUserId } from './users.utils'
-import ApiError from '../../../errors/ApiError'
+import { User } from './users.model';
+import { IUser } from './users.interface';
+import config from '../../../config';
+import { generatedUserId } from './users.utils';
+import ApiError from '../../../errors/ApiError';
 
 const createUser = async (user: IUser): Promise<IUser | null> => {
-    const id = await generatedUserId()
+    const id = await generatedUserId();
 
-    user.id = id
+    user.id = id;
 
     if (!user.password) {
-        user.password = config.default_user_pass as string
+        user.password = config.default_user_pass as string;
     }
 
-    const createdUser = User.create(user)
+    const createdUser = User.create(user);
     if (!createUser) {
-        throw new ApiError(400, 'Failed to create user')
+        throw new ApiError(400, 'Failed to create user');
     }
-    return createdUser
-}
+    return createdUser;
+};
 
-export default { createUser }
+export const UserService = { createUser };
