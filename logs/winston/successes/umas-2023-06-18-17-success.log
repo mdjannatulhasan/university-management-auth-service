@@ -502,3 +502,17 @@
   label: 'info',
   timestamp: '2023-06-18T11:34:53.389Z'
 }
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-18T11:35:01.144Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-06-18T11:35:01.156Z'
+}
