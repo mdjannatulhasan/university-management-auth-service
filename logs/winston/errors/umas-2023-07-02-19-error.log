@@ -1,0 +1,28 @@
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'error',
+  timestamp: '2023-07-02T13:02:55.495Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'error',
+  timestamp: '2023-07-02T13:03:40.112Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'error',
+  timestamp: '2023-07-02T13:05:04.811Z'
+}
+{
+  statusCode: 409,
+  level: 'error',
+  service: 'user-service',
+  label: 'error',
+  timestamp: '2023-07-02T13:08:13.720Z'
+}

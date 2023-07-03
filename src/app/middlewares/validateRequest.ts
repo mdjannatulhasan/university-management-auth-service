@@ -11,6 +11,7 @@ const validateRequest =
                 params: req.params,
                 cookies: req.cookies,
             });
+
             return next();
         } catch (error) {
             next(error);

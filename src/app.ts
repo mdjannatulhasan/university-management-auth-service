@@ -1,7 +1,8 @@
-import express, { Application } from 'express';
+import express, { Application, NextFunction, Request, Response } from 'express';
 import cors from 'cors';
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
-import { UserRoutes } from './app/modules/users/users.route';
+import routes from './app/routes';
+import httpStatus from 'http-status';
 
 const app: Application = express();
 
@@ -11,7 +12,21 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 //Application Route
-app.use('/api/v1/users', UserRoutes);
+app.use('/api/v1/', routes);
+
+app.use((req: Request, res: Response, next: NextFunction) => {
+    res.status(httpStatus.NOT_FOUND).json({
+        success: false,
+        message: 'Not Found',
+        errorMessages: [
+            {
+                path: req.originalUrl,
+                message: 'API Not Found',
+            },
+        ],
+    });
+    next();
+});
 
 app.get('/', () => {
     Promise.reject(new Error('Unhandled promise rejection'));

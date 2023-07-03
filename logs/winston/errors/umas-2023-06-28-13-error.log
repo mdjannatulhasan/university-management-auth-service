@@ -1,0 +1,198 @@
+{
+  errors: {
+    endMonth: ValidatorError: Path `endMonth` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `endMonth` is required.',
+        type: 'required',
+        path: 'endMonth',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'endMonth',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    startMonth: ValidatorError: Path `startMonth` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `startMonth` is required.',
+        type: 'required',
+        path: 'startMonth',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'startMonth',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    code: ValidatorError: Path `code` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `code` is required.',
+        type: 'required',
+        path: 'code',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'code',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    year: ValidatorError: Path `year` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaNumber.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `year` is required.',
+        type: 'required',
+        path: 'year',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'year',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `title` is required.',
+        type: 'required',
+        path: 'title',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'AcademicSemester validation failed',
+  level: 'error',
+  service: 'user-service',
+  label: 'error',
+  timestamp: '2023-06-28T07:18:41.364Z'
+}
+{
+  errors: {
+    endMonth: ValidatorError: Path `endMonth` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `endMonth` is required.',
+        type: 'required',
+        path: 'endMonth',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'endMonth',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    startMonth: ValidatorError: Path `startMonth` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `startMonth` is required.',
+        type: 'required',
+        path: 'startMonth',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'startMonth',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    code: ValidatorError: Path `code` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `code` is required.',
+        type: 'required',
+        path: 'code',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'code',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    year: ValidatorError: Path `year` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaNumber.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `year` is required.',
+        type: 'required',
+        path: 'year',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'year',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1349:13)
+        at SchemaString.SchemaType.doValidate (/Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/schematype.js:1333:7)
+        at /Users/hasan/Desktop/Web Dev/university-management-auth-service/node_modules/mongoose/lib/document.js:2932:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `title` is required.',
+        type: 'required',
+        path: 'title',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'AcademicSemester validation failed',
+  level: 'error',
+  service: 'user-service',
+  label: 'error',
+  timestamp: '2023-06-28T07:21:21.760Z'
+}
