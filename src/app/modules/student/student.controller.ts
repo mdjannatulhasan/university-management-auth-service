@@ -41,6 +41,7 @@ const getSingleStudent = catchAsync(async (req: Request, res: Response) => {
 
 const updateStudent = catchAsync(async (req: Request, res: Response) => {
     const id = req.params.id;
+
     const updatedData = req.body as Partial<IStudent>;
 
     const result = await StudentService.updateStudent(id, updatedData);

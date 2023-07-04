@@ -104,6 +104,11 @@
             "date": 1688475707316,
             "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-19-success.log",
             "hash": "4f90b35b0ed8c6368a66d4f662b13c70302fd007de41e63375fb596c7346e3c4"
+        },
+        {
+            "date": 1688479867301,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-20-success.log",
+            "hash": "8c09eacea0aaeefba0671c26caa9d9589b236599b7db3641d462322fb68cdfb0"
         }
     ],
     "hashType": "sha256"

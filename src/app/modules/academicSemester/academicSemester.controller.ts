@@ -1,5 +1,4 @@
 import { NextFunction, Request, Response } from 'express';
-import { logger } from '../../../shared/logger';
 import { AcademicSemesterService } from './academicSemester.service';
 import { catchAsync } from '../../../shared/catchAsync';
 import { sendResponse } from '../../../shared/sendResponse';
@@ -15,7 +14,6 @@ import { pagination } from '../../constants/pagination';
 const createAcademicSemester = catchAsync(
     async (req: Request, res: Response, next: NextFunction) => {
         const { ...semester } = req.body;
-        logger.info(semester);
 
         const result = await AcademicSemesterService.createAcademicSemester(
             semester

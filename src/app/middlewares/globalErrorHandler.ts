@@ -15,8 +15,8 @@ import { handleCastError } from '../../errors/handleCastError';
 const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
     config.env == 'development'
         ? console.log('globalErrorHandler ~', error)
-        : errorLogger.error('globalErrorHandler ~', error);
-
+        : '';
+    // errorLogger.error('globalErrorHandler ~', error)
     let statusCode = 500;
     let message = 'Something went wrong';
     let errorMessages: IGenericErrorMessage[] = [];
