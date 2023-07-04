@@ -29,7 +29,7 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 });
 
 app.get('/', () => {
-    Promise.reject(new Error('Unhandled promise rejection'));
+    // Promise.reject(new Error('Unhandled promise rejection'));
 });
 
 app.use(globalErrorHandler);
