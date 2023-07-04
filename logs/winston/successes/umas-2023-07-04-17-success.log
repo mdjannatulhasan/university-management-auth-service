@@ -3,68 +3,82 @@
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:08:59.928Z'
+  timestamp: '2023-07-04T11:06:24.627Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:08:59.937Z'
+  timestamp: '2023-07-04T11:06:24.633Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:29:41.031Z'
+  timestamp: '2023-07-04T11:06:33.372Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:29:41.040Z'
+  timestamp: '2023-07-04T11:06:33.384Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:30:03.835Z'
+  timestamp: '2023-07-04T11:07:03.737Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:30:03.844Z'
+  timestamp: '2023-07-04T11:07:03.743Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:30:36.823Z'
+  timestamp: '2023-07-04T11:07:17.046Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:30:36.836Z'
+  timestamp: '2023-07-04T11:07:17.059Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:33:44.061Z'
+  timestamp: '2023-07-04T11:07:24.125Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T08:33:44.072Z'
+  timestamp: '2023-07-04T11:07:24.134Z'
+}
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-07-04T11:07:48.948Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-07-04T11:07:48.955Z'
 }
