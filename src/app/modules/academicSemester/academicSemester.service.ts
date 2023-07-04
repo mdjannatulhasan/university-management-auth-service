@@ -1,11 +1,19 @@
 import { AcademicSemester } from './academicSemester.model';
-import { IAcademicSemester } from './academicSemester.interface';
+import {
+    IAcademicSemester,
+    IAcademicSemesterFilters,
+} from './academicSemester.interface';
 // import config from '../../../config';
 import ApiError from '../../../errors/ApiError';
-import { academicSemesterTitleCodeMapper } from './academicSemester.constants';
+import {
+    academicSemesterSearchableFields,
+    academicSemesterTitleCodeMapper,
+} from './academicSemester.constants';
 import httpStatus from 'http-status';
 import { IPaginationOptions } from '../../interfaces/pagination';
 import { IGenericResponse } from '../../interfaces/common';
+import { paginationHelpers } from '../../../helpers/paginationHelpers';
+import { SortOrder } from 'mongoose';
 
 const createAcademicSemester = async (
     academicSemester: IAcademicSemester
@@ -26,13 +34,57 @@ const createAcademicSemester = async (
 };
 
 const getAllSemester = async (
-    paginationOptions: IPaginationOptions
+    paginationOptions: IPaginationOptions,
+    filters: IAcademicSemesterFilters
 ): Promise<IGenericResponse<IAcademicSemester[]> | null> => {
-    const { page = 1, limit = 10 } = paginationOptions;
+    const { searchTerm, ...filtersData } = filters;
 
-    const skip = (page - 1) * limit;
+    const andConditions = [];
 
-    const result = await AcademicSemester.find().skip(skip).limit(limit);
+    if (searchTerm) {
+        andConditions.push({
+            $or: academicSemesterSearchableFields.map(field => {
+                if (field !== 'year') {
+                    return {
+                        [field]: {
+                            $regex: searchTerm,
+                            $options: 'i',
+                        },
+                    };
+                } else {
+                    return {
+                        [field]: {
+                            $eq: parseInt(searchTerm),
+                        },
+                    };
+                }
+            }),
+        });
+    }
+
+    if (Object.keys(filtersData).length) {
+        andConditions.push({
+            $and: Object.entries(filtersData).map(([field, value]) => ({
+                [field]: value,
+            })),
+        });
+    }
+
+    const { skip, page, limit, sortBy, sortOrder } =
+        paginationHelpers.calculatePagination(paginationOptions);
+
+    const sortConditions: { [key: string]: SortOrder } = {};
+
+    if (sortBy && sortConditions) {
+        sortConditions[sortBy] = sortOrder;
+    }
+
+    const conditions = andConditions.length > 0 ? { $and: andConditions } : {};
+
+    const result = await AcademicSemester.find(conditions)
+        .sort(sortConditions)
+        .skip(skip)
+        .limit(limit);
 
     const total = await AcademicSemester.countDocuments();
 
@@ -46,7 +98,16 @@ const getAllSemester = async (
     };
 };
 
+const getSingleSemester = async (
+    id: string
+): Promise<IAcademicSemester | null> => {
+    const result = await AcademicSemester.findById(id);
+
+    return result;
+};
+
 export const AcademicSemesterService = {
     createAcademicSemester,
     getAllSemester,
+    getSingleSemester,
 };

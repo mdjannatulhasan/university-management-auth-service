@@ -44,6 +44,31 @@
             "date": 1688400263385,
             "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-03-22-success.log",
             "hash": "1e0f2d08bdf28e8ad78f4f3ffcb6e83ab70178b520d0bda88cb6efb0c45506c9"
+        },
+        {
+            "date": 1688403708555,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-03-23-success.log",
+            "hash": "15c58e254ed1c9ec1404e5e7448cf32a890ab9a39e0abca3f8ecfb7d3b48c605"
+        },
+        {
+            "date": 1688442744235,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-09-success.log",
+            "hash": "1844b06b9702223baf571970b09015033e9deeaf4a47202f872945b2bb651642"
+        },
+        {
+            "date": 1688443218721,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-10-success.log",
+            "hash": "41ef66aea33f62bcf3e50f602d926172da569dfe12a5a47e9a4889f66c34e981"
+        },
+        {
+            "date": 1688446828263,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-11-success.log",
+            "hash": "e4218d9093d859d0c4c049c3b39f98c39fdbe1b9a6611f624fbfbb5c6b9d4afc"
+        },
+        {
+            "date": 1688450401013,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-12-success.log",
+            "hash": "114a7b179075eb4f699a0970c8d2b659a58edb365eda36ba5255318c5b021355"
         }
     ],
     "hashType": "sha256"
