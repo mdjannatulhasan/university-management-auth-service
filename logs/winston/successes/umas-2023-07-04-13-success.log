@@ -3,810 +3,614 @@
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:00:01.009Z'
+  timestamp: '2023-07-04T07:00:06.447Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:00:01.021Z'
+  timestamp: '2023-07-04T07:00:06.453Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:00:05.272Z'
+  timestamp: '2023-07-04T07:02:47.824Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:00:05.276Z'
+  timestamp: '2023-07-04T07:02:47.830Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:01:31.585Z'
+  timestamp: '2023-07-04T07:04:12.613Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:01:31.590Z'
+  timestamp: '2023-07-04T07:04:12.624Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:01:36.047Z'
+  timestamp: '2023-07-04T07:04:41.881Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:01:36.056Z'
+  timestamp: '2023-07-04T07:04:41.886Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:02:56.260Z'
+  timestamp: '2023-07-04T07:05:29.610Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:02:56.267Z'
+  timestamp: '2023-07-04T07:05:29.621Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:03:24.987Z'
+  timestamp: '2023-07-04T07:05:59.898Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:03:25.000Z'
+  timestamp: '2023-07-04T07:05:59.910Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:10:41.025Z'
+  timestamp: '2023-07-04T07:06:15.911Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:10:41.035Z'
+  timestamp: '2023-07-04T07:06:15.915Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:11:22.305Z'
+  timestamp: '2023-07-04T07:07:09.862Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:11:22.313Z'
+  timestamp: '2023-07-04T07:07:09.867Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:12:05.275Z'
+  timestamp: '2023-07-04T07:07:38.461Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:12:05.287Z'
+  timestamp: '2023-07-04T07:07:38.469Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:12:16.287Z'
+  timestamp: '2023-07-04T07:08:07.712Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:12:16.293Z'
+  timestamp: '2023-07-04T07:08:07.721Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:12:58.596Z'
+  timestamp: '2023-07-04T07:08:16.556Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:12:58.603Z'
+  timestamp: '2023-07-04T07:08:16.563Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:06.898Z'
+  timestamp: '2023-07-04T07:10:36.126Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:06.905Z'
+  timestamp: '2023-07-04T07:10:36.130Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:11.845Z'
+  timestamp: '2023-07-04T07:11:13.722Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:11.850Z'
+  timestamp: '2023-07-04T07:11:13.727Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:40.375Z'
+  timestamp: '2023-07-04T07:13:15.647Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:40.384Z'
+  timestamp: '2023-07-04T07:13:15.652Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:51.740Z'
+  timestamp: '2023-07-04T07:13:58.965Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:13:51.745Z'
+  timestamp: '2023-07-04T07:13:58.973Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:15:22.146Z'
+  timestamp: '2023-07-04T07:14:06.217Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:15:22.153Z'
+  timestamp: '2023-07-04T07:14:06.222Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:15:57.748Z'
+  timestamp: '2023-07-04T07:14:37.136Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:15:57.753Z'
+  timestamp: '2023-07-04T07:14:37.143Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:16:18.336Z'
+  timestamp: '2023-07-04T07:15:22.669Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:16:18.341Z'
+  timestamp: '2023-07-04T07:15:22.678Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:16:23.525Z'
+  timestamp: '2023-07-04T07:15:46.156Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:16:23.534Z'
+  timestamp: '2023-07-04T07:15:46.160Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:17:17.253Z'
+  timestamp: '2023-07-04T07:16:16.119Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:17:17.259Z'
+  timestamp: '2023-07-04T07:16:16.123Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:19:09.457Z'
+  timestamp: '2023-07-04T07:17:24.308Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:19:09.462Z'
+  timestamp: '2023-07-04T07:17:24.317Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:20:15.381Z'
+  timestamp: '2023-07-04T07:17:59.376Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:20:15.386Z'
+  timestamp: '2023-07-04T07:17:59.387Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:21:26.521Z'
+  timestamp: '2023-07-04T07:18:22.517Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:21:26.528Z'
+  timestamp: '2023-07-04T07:18:22.521Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:26:43.043Z'
+  timestamp: '2023-07-04T07:19:45.565Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:26:43.051Z'
+  timestamp: '2023-07-04T07:19:45.569Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:36:19.891Z'
+  timestamp: '2023-07-04T07:19:53.422Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:36:19.908Z'
+  timestamp: '2023-07-04T07:19:53.427Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:36:47.463Z'
+  timestamp: '2023-07-04T07:21:33.514Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:36:47.472Z'
+  timestamp: '2023-07-04T07:21:33.527Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:38:24.465Z'
+  timestamp: '2023-07-04T07:21:55.873Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:38:24.471Z'
+  timestamp: '2023-07-04T07:21:55.881Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:38:42.682Z'
+  timestamp: '2023-07-04T07:24:11.360Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:38:42.689Z'
+  timestamp: '2023-07-04T07:24:11.365Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:39:12.592Z'
+  timestamp: '2023-07-04T07:24:31.287Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:39:12.597Z'
+  timestamp: '2023-07-04T07:24:31.291Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:39:17.733Z'
+  timestamp: '2023-07-04T07:27:29.322Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:39:17.740Z'
+  timestamp: '2023-07-04T07:27:29.327Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:40:37.467Z'
+  timestamp: '2023-07-04T07:28:33.918Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:40:37.474Z'
+  timestamp: '2023-07-04T07:28:33.921Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:40:58.423Z'
+  timestamp: '2023-07-04T07:29:09.296Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:40:58.433Z'
+  timestamp: '2023-07-04T07:29:09.302Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:41:27.830Z'
+  timestamp: '2023-07-04T07:29:38.283Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:41:27.837Z'
+  timestamp: '2023-07-04T07:29:38.288Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:09.265Z'
+  timestamp: '2023-07-04T07:29:58.088Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:09.272Z'
+  timestamp: '2023-07-04T07:29:58.098Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:23.806Z'
+  timestamp: '2023-07-04T07:31:17.281Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:23.815Z'
+  timestamp: '2023-07-04T07:31:17.291Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:43.697Z'
+  timestamp: '2023-07-04T07:31:39.250Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:43.703Z'
+  timestamp: '2023-07-04T07:31:39.262Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:54.095Z'
+  timestamp: '2023-07-04T07:32:09.233Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:42:54.099Z'
+  timestamp: '2023-07-04T07:32:09.242Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:43:01.536Z'
+  timestamp: '2023-07-04T07:32:14.288Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:43:01.544Z'
+  timestamp: '2023-07-04T07:32:14.298Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:43:37.254Z'
+  timestamp: '2023-07-04T07:32:54.180Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:43:37.263Z'
+  timestamp: '2023-07-04T07:32:54.192Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:44:21.967Z'
+  timestamp: '2023-07-04T07:33:15.865Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:44:21.975Z'
+  timestamp: '2023-07-04T07:33:15.878Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:45:47.942Z'
+  timestamp: '2023-07-04T07:33:41.161Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:45:47.952Z'
+  timestamp: '2023-07-04T07:33:41.165Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:46:29.456Z'
+  timestamp: '2023-07-04T07:35:03.754Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:46:29.459Z'
+  timestamp: '2023-07-04T07:35:03.767Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:46:43.053Z'
+  timestamp: '2023-07-04T07:51:13.518Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:46:43.060Z'
+  timestamp: '2023-07-04T07:51:13.522Z'
 }
 {
   message: 'DB is connected',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:47:58.269Z'
+  timestamp: '2023-07-04T07:51:26.818Z'
 }
 {
   message: 'Port is listening',
   level: 'info',
   service: 'user-service',
   label: 'info',
-  timestamp: '2023-07-04T06:47:58.279Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:50:43.607Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:50:43.612Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:51:06.708Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:51:06.713Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:51:24.135Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:51:24.141Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:51:52.745Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:51:52.755Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:52:30.924Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:52:30.936Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:52:56.047Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:52:56.058Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:53:37.098Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:53:37.107Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:53:42.162Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:53:42.167Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:54:00.628Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:54:00.642Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:54:14.794Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:54:14.804Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:55:54.497Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:55:54.509Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:56:58.338Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:56:58.344Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:57:14.058Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:57:14.064Z'
-}
-{
-  message: 'DB is connected',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:59:41.956Z'
-}
-{
-  message: 'Port is listening',
-  level: 'info',
-  service: 'user-service',
-  label: 'info',
-  timestamp: '2023-07-04T06:59:41.965Z'
+  timestamp: '2023-07-04T07:51:26.822Z'
 }

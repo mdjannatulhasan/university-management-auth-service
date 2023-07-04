@@ -1,0 +1,14 @@
+{
+  message: 'DB is connected',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-07-04T08:08:59.928Z'
+}
+{
+  message: 'Port is listening',
+  level: 'info',
+  service: 'user-service',
+  label: 'info',
+  timestamp: '2023-07-04T08:08:59.937Z'
+}

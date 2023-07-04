@@ -69,6 +69,16 @@
             "date": 1688450404404,
             "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/errors/umas-2023-07-04-12-error.log",
             "hash": "00d5701165dc7fb0bb14bce65f8beef3ec6c5a5025e6c3c556f45450b6deff5f"
+        },
+        {
+            "date": 1688454005569,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/errors/umas-2023-07-04-13-error.log",
+            "hash": "a3f70f79a60f8eb17aec144b0bc47c3227a134dd9e682607270ec6a6996a3726"
+        },
+        {
+            "date": 1688458138797,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/errors/umas-2023-07-04-14-error.log",
+            "hash": "10cdb5b2e686ff69c4b51e1caf4e2a20d666922722b2403afa8a7a342b62f6b5"
         }
     ],
     "hashType": "sha256"
