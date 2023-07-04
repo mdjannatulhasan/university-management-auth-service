@@ -1,13 +1,11 @@
 import { RequestHandler } from 'express';
-import { logger } from '../../../shared/logger';
 import { UserService } from './users.service';
 
-const createUser: RequestHandler = async (req, res, next) => {
+const createStudent: RequestHandler = async (req, res, next) => {
     try {
-        const { user } = req.body;
-        logger.info(user);
+        const { student, ...userData } = req.body;
 
-        const result = await UserService.createUser(user);
+        const result = await UserService.createStudent(student, userData);
         res.status(200).json({
             success: true,
             message: 'User created  successfully',
@@ -18,4 +16,4 @@ const createUser: RequestHandler = async (req, res, next) => {
     }
 };
 
-export const UserController = { createUser };
+export const UserController = { createStudent };

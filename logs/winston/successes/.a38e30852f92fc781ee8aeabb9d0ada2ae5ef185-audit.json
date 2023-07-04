@@ -94,6 +94,16 @@
             "date": 1688468783608,
             "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-17-success.log",
             "hash": "d75b8b42949721afa5cc6daf9f170eec0d83b5a0c6d30c44a4064ff5f06e9a0a"
+        },
+        {
+            "date": 1688472006578,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-18-success.log",
+            "hash": "b26d3a1062f44b359601c1e9f2c15dd55a938d5da61fb2c0465c577778fac1f1"
+        },
+        {
+            "date": 1688475707316,
+            "name": "/Users/hasan/Desktop/Web Dev/university-management-auth-service/logs/winston/successes/umas-2023-07-04-19-success.log",
+            "hash": "4f90b35b0ed8c6368a66d4f662b13c70302fd007de41e63375fb596c7346e3c4"
         }
     ],
     "hashType": "sha256"
